@@ -5,7 +5,7 @@ function Introduction(){
     return <div className="intro">
         <img src={resort} alt="" className="introresort" />
         <h1 className="introtitle">
-            Manipal Resort
+            Manipal
         </h1>
         <h2 className="introdesc">
         Experience luxury like never before  
