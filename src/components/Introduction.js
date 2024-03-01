@@ -8,7 +8,7 @@ function Introduction(){
             Manipal Resort
         </h1>
         <h2 className="introdesc">
-        Experience luxury like never before  
+        Experience luxury like never before. 
         </h2>
     </div>
 }
